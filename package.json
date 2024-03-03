@@ -1,6 +1,6 @@
 {
   "name": "@arinuansa/sort-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "string sortenr",
   "main": "index.js",
   "scripts": {
