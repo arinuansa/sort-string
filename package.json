@@ -1,0 +1,28 @@
+{
+  "name": "string-sort",
+  "version": "1.0.0",
+  "description": "string sortener",
+  "main": "index.js",
+  "scripts": {
+    "sort": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arinuansa/sort-string.git"
+  },
+  "keywords": [
+    "string",
+    "sortener",
+    "sort-string",
+    "string-sort"
+  ],
+  "author": "arinuansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arinuansa/sort-string/issues"
+  },
+  "homepage": "https://github.com/arinuansa/sort-string#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
