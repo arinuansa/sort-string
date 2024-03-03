@@ -1,7 +1,7 @@
 {
   "name": "@arinuansa/sort-string",
   "version": "1.0.0",
-  "description": "string sortener",
+  "description": "string sortenr",
   "main": "index.js",
   "scripts": {
     "sort": "nodemon index.js"
@@ -11,9 +11,8 @@
     "url": "git+https://github.com/arinuansa/sort-string.git"
   },
   "keywords": [
+    "sort",
     "string",
-    "sortener",
-    "sort-string",
     "string-sort"
   ],
   "author": "arinuansa",
@@ -24,5 +23,9 @@
   "homepage": "https://github.com/arinuansa/sort-string#readme",
   "dependencies": {
     "nodemon": "^3.1.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
