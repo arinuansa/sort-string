@@ -1,14 +1,14 @@
 {
   "name": "@arinuansa/sort-string",
-  "version": "1.0.2",
-  "description": "string sortenr",
+  "version": "1.0.3",
+  "description": "string sortener",
   "main": "index.js",
   "scripts": {
     "sort": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arinuansa/sort-string.git"
+    "url": "https://github.com/arinuansa/sort-string.git"
   },
   "keywords": [
     "sort",
